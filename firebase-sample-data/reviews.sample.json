@@ -1,0 +1,12 @@
+[
+  {
+    "author": "Demo User",
+    "placeName": "Basava Jolada Rotti Mana",
+    "placeNameKn": "ಬಸವ ಜೋಳದ ರೊಟ್ಟಿ ಮನೆ",
+    "note": "The food was fresh and authentic.",
+    "noteKn": "ಆಹಾರ ತಾಜಾ ಮತ್ತು ನಿಜವಾದ ಸ್ಥಳೀಯ ರುಚಿಯಿತ್ತು.",
+    "imageUrl": "https://images.unsplash.com/photo-1627308595229-7830a5c91f9f",
+    "userEmail": "demo@example.com",
+    "createdAt": "2026-05-12T10:00:00Z"
+  }
+]

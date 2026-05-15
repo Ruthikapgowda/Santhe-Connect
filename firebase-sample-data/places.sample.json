@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Basava Jolada Rotti Mana",
+    "nameKn": "ಬಸವ ಜೋಳದ ರೊಟ್ಟಿ ಮನೆ",
+    "type": "Food",
+    "specialty": "Jolada rotti meals with ennegayi",
+    "specialtyKn": "ಎಣ್ಣೆಗಾಯಿ ಜೊತೆಗೆ ಜೋಳದ ರೊಟ್ಟಿ ಊಟ",
+    "village": "Mysuru old market road",
+    "villageKn": "ಮೈಸೂರು ಹಳೆಯ ಮಾರುಕಟ್ಟೆ ರಸ್ತೆ",
+    "latitude": 12.3101,
+    "longitude": 76.6547,
+    "openDays": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"],
+    "imageUrl": "https://images.unsplash.com/photo-1627308595229-7830a5c91f9f",
+    "reviewNote": "Simple banana-leaf meals and warm local hosting",
+    "popup": false
+  },
+  {
+    "name": "Udupi Tuesday Santhe",
+    "nameKn": "ಉಡುಪಿ ಮಂಗಳವಾರ ಸಂತೆ",
+    "type": "Market",
+    "specialty": "Coconut, banana chips, coastal spices",
+    "specialtyKn": "ತೆಂಗಿನಕಾಯಿ, ಬಾಳೆ ಚಿಪ್ಸ್, ಕರಾವಳಿ ಮಸಾಲೆಗಳು",
+    "village": "Udupi",
+    "villageKn": "ಉಡುಪಿ",
+    "latitude": 13.3409,
+    "longitude": 74.7421,
+    "openDays": ["TUESDAY"],
+    "imageUrl": "https://images.unsplash.com/photo-1470309864661-68328b2cd0a5",
+    "reviewNote": "Coastal market with local food and produce",
+    "popup": true
+  },
+  {
+    "name": "Melukote Handloom Corner",
+    "nameKn": "ಮೇಲುಕೋಟೆ ಕೈಮಗ್ಗ ಅಂಗಡಿ",
+    "type": "Craft",
+    "specialty": "Hand-woven towels and cotton angavastra",
+    "specialtyKn": "ಕೈಯಿಂದ ನೇಯ್ದ ಟವಲ್‌ಗಳು ಮತ್ತು ಹತ್ತಿ ಅಂಗವಸ್ತ್ರ",
+    "village": "Melukote",
+    "villageKn": "ಮೇಲುಕೋಟೆ",
+    "latitude": 12.6622,
+    "longitude": 76.6486,
+    "openDays": ["FRIDAY", "SATURDAY", "SUNDAY"],
+    "imageUrl": "https://images.unsplash.com/photo-1604719312566-8912e9227c6a",
+    "reviewNote": "Meet the weaver family behind each piece",
+    "popup": false
+  }
+]

@@ -1,0 +1,4 @@
+org.gradle.jvmargs=-Xmx2048m -Dfile.encoding=UTF-8
+android.useAndroidX=true
+MAPS_API_KEY=YOUR_GOOGLE_MAPS_API_KEY
+FIRESTORE_DATABASE_ID=YOUR_FIRESTORE_DATABASE_ID
