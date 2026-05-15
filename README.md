@@ -43,30 +43,15 @@ Santhe-Connect solves this by mapping local places, showing weekly market schedu
 ## Repository Contents
 
 ```text
-app/                         Android app source code
-app/src/main/                Main app files
-app/src/test/                Unit tests
-firebase-sample-data/        Safe sample Firestore data
-gradle/                      Gradle wrapper files
-gradle.properties.example    Example local Gradle config
-app/google-services.example.json  Example Firebase config shape
-SUBMISSION.md                Submission checklist
-README.md                    Project documentation
+app/                               Android app source code
+app/src/main/                      Main app files
+app/src/test/                      Unit tests
+firebase-sample-data/              Sample Firestore data
+gradle/                            Gradle wrapper files
+gradle.properties.example          Example local Gradle config
+app/google-services.example.json   Example Firebase config shape
+README.md                          Project documentation
 ```
-
-## Important Security Note
-
-The real files below are intentionally ignored and should not be pushed to GitHub:
-
-```text
-gradle.properties
-local.properties
-app/google-services.json
-app/build/
-*.apk
-```
-
-Use the `.example` files to understand what local config is required.
 
 ## Setup Instructions
 
@@ -201,45 +186,6 @@ noteKn: string
 imageUrl: string
 userEmail: string
 createdAt: timestamp
-```
-
-Sample data is available in:
-
-```text
-firebase-sample-data/
-```
-
-## Firestore Rules For Demo
-
-For testing/demo only:
-
-```js
-rules_version = '2';
-
-service cloud.firestore {
-  match /databases/{database}/documents {
-    match /places/{document=**} {
-      allow read, write: if true;
-    }
-
-    match /reviews/{document=**} {
-      allow read, write: if true;
-    }
-  }
-}
-```
-
-For production, use authenticated-user rules.
-
-## Screenshots And Demo
-
-Add screenshots under a `screenshots/` folder or attach an APK in GitHub Releases.
-
-Suggested demo links:
-
-```text
-GitHub Repository: https://github.com/Ruthikapgowda/Santhe-Connect
-APK Release Link: add after creating GitHub Release
 ```
 
 ## Project Impact
