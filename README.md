@@ -245,7 +245,3 @@ APK Release Link: add after creating GitHub Release
 ## Project Impact
 
 Santhe-Connect promotes inclusive tourism by helping tourists spend beyond commercial hotels and popular tourist spots. It gives digital visibility to small local businesses and supports cultural exchange through authentic Karnataka hospitality.
-
-## Author
-
-Created as an Android App Development using GenAI project.
